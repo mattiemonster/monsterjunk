@@ -1,0 +1,2 @@
+cwindow 500 500 500 500
+cwindow_show

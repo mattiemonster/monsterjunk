@@ -1,0 +1,7 @@
+this will create an empty window.
+
+cwindow 500 500 500 500
+
+this will show the empty window.
+
+cwindow_show

@@ -1,0 +1,340 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:163
+Cursor/Column:19
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:0
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,40,cb,Helvetica,,Creaking Floorboards
+#Title-String 0.000000,120.460000,30,c,Times,,by\n\nMatthew Ware
+#Title-String 15.000000,248.460000,12,,Courier,,A Lightning Struck Production.
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.\Int. House - night
+>.JAMIE is seen walking through a dusty hallway of the house.
+>.The FOOTSTEPS adds creepiness to the atmosphere and the
+..floorboards creek on every step.
+._JAMIE
+>((The sound of a BREATH
+.(makes Jamie react)
+.:AHH!
+>.The camera moves to reveal that LEWI is standing next to
+..Jamie. Lewi is holding a flashlight.
+._LEWI
+.:It was probably just the wind-
+._JAMIE
+>:Yeah, but isn't the wind like a...
+>:A... Cliche or something? Like...
+>:You know... Something creepy
+>:happens and then some guy who
+>:thinks he's hard goes, 'oh, it's
+>:probs just the wind, no big deal.
+>:Stop being a pussy.' And then a
+>:giant monster comes out and eats
+.:his pe-
+._LEWI
+>:Really? I mean, REALLY? Do you
+>:really think that some 'hard guy'
+>:is going to complain about some
+.:being a pussy and then get eaten.
+._JAMIE
+.:Actually, it was his pen-
+._LEWI
+>:No, I think I've heard quite enough
+.:already.
+._JAMIE
+>:Awwww, can someone not stand a
+.:little willy joke?
+._LEWI
+>:No! STOP SAYING THAT, IT JUST
+.:MAKESS ME FEEL UNCOMFORTABLE OKAY.
+._JAMIE
+>:Okay, a man joke. A little itty
+.:bitty bit of GOOD HUMOR.
+._LEWI
+.:No, it's TERRIBLE HUMOR!
+._JAMIE
+>:Calm down! I cant believe were
+>:arguing about this in the middle of
+.:walking through a 'haunted' house.
+._LEWI
+>:Ha, ha. I just though of something
+.:funny.
+._JAMIE
+.:What?
+._LEWI
+>:When I said that that humor makes
+>:me feel uncomfortable, I should of
+>:said... Wait for it... 'IT'S NOT A
+.:FAZE, MOM!'
+..Jamie looks at Lewi with a confused face.
+._JAMIE
+.:Wow, what a great joke.
+._LEWI
+.:I know, right-
+._JAMIE
+.:I was being sarcastic.
+._LEWI
+>:Oh. Anyway, why aren't you using
+>:your flashlight. And why aren't we
+.:moving?!
+._JAMIE
+>:Well, about the moving thing I
+>:don't know. And the flashlight
+>:thing, I want to save this one just
+>:in case the one you're using runs
+.:out of battery.
+..The flashlight LEWI was holding turns off.
+._JAMIE
+.:See? Good idea, eh?
+._LEWI
+.:I turned it off.
+..Lewi turns the flashlight back on.
+._JAMIE
+>:Well how was I supposed to know!
+.:Ugh, my point still stands!
+._LEWI
+.:It never stood.
+._JAMIE
+>:Shut up. Anyway, shoudln't we start
+.:moving?
+..The start walking into the camera and the scene changes.
+.\Int. Basement - night
+>.They are in a basement, water is dripping from the
+>.unpainted, concrete ceiling. Rats scutter across the barren
+>.room and twitching sounds of unseen creatures echo
+>.throughout the room, infecting the minds of every living
+..thing that could here it.
+._JAMIE
+>:I told you we shouldn't go down
+.:here!
+._LEWI
+>:You say that like something bad has
+.:happened.
+._JAMIE
+.:Yeah! Something bad has happened!
+._LEWI
+.:That being?
+._JAMIE
+.:We are down here!
+._LEWI
+.((He laughs)
+>:There is nothing wrong with this
+.:place.
+..Lewi sniffs loudly.
+._JAMIE
+.:WHAT IN THE WORLD ARE YOU DOING?
+._LEWI
+.:I'm sniffing because I have a cold.
+._JAMIE
+.:YEAH, WAY TO LOUDLY!!
+._LEWI
+>:Says the person who is screaming at
+.:me.
+._JAMIE
+>:Urgh! We do we keep getting into
+.:arguments?!
+._LEWI
+.:I don't know.
+._JAMIE
+>:I think we should keep going if we
+>:want to get to the end of this
+.:place.
+._LEWI
+>:Actually, I forgot why we even came
+.:here.
+._JAMIE
+>:I thought you brought me here since
+>:you seemed like you knew
+.:everything.
+._LEWI
+>:No, I was following you since you
+.:seemed like you knew everything.
+._JAMIE
+.:But... I was following you?
+._LEWI
+.:So... How did we get anywhere?
+..They both look confused and worried.
+._JAMIE
+>:Maybe it's best if we don't think
+.:about that.
+._LEWI
+.:I think you're right.
+._JAMIE
+>:Well, lets get moving. You take the
+.:lead.
+._LEWI
+.:No, you!
+._JAMIE
+.:No, you!
+._LEWI
+>:Fine! I can't be bothered to go
+.:through this argument again.
+.\Int. Ground floor - night
+..They walk across the ground floor which is full of clutter.
+._LEWI
+.:So... Where do I go
