@@ -1,0 +1,51 @@
+
+;header
+desc          = lantern
+
+;ai
+aiinit        = appear2.fpi
+aimain        = weapon.fpi
+aidestroy     = disappear2.fpi
+
+;spawn
+spawnmax      = 1
+spawndelay    = 500
+spawnqty      = 1
+
+;orientation
+
+model         = lantern.x
+offx          = 0
+offy          = 0
+offz          = 0
+rotx          = 0
+roty          = 0
+rotz          = 0
+scale         = 25
+defaultstatic = 0
+materialindex = 3
+collisionmode = 0
+strength      = 0
+
+;visualinfo
+
+textured      = lantern_D2.dds
+effect        = effectbank\ps_2_0\bumpent.fx
+castshadow    = 0
+
+;Animationinfo
+
+
+
+
+;Identity Details
+isweapon      = ww2\hand_lantern
+quantity      = 1
+speed         = 100
+
+
+
+
+
+
+

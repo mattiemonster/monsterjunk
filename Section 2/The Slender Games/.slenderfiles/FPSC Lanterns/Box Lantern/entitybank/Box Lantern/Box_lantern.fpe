@@ -1,0 +1,51 @@
+
+;header
+desc          = Box Lantern
+
+;ai
+aiinit        = Appear1.fpi
+aimain        = weapon.fpi
+aidestroy     = Disappear1.fpi
+
+;spawn
+spawnmax      = 0
+spawndelay    = 0
+spawnqty      = 0
+
+;orientation
+
+model         = Box_lantern.x
+offx          = 0
+offy          = 0
+offz          = 0
+rotx          = 0
+roty          = 0
+rotz          = 0
+scale         = 20
+defaultstatic = 0
+materialindex = 3
+collisionmode = 0
+strength      = 0
+
+;visualinfo
+
+textured      = Box_lantern_D2.dds
+effect        = effectbank\ps_2_0\bumpent.fx
+castshadow    = 0
+
+;Animationinfo
+
+
+;Identity Details
+isweapon      = ww2\box_lantern
+quantity      = 1
+speed         = 100
+
+
+
+
+
+
+
+
+

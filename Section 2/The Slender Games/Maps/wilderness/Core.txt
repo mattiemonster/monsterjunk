@@ -1,0 +1,16 @@
+Menu
+Flashlight
+Slender
+Map: Wilderness
+
+Features:
+
+Slender chases you
+Collects pages
+Exit? (y/n):
+
+y/n: y
+
+Nickname (The slender games: Hospital; Stalked)
+
+y/n + nickname: y, wilderness

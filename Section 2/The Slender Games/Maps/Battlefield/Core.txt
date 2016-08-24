@@ -1,0 +1,16 @@
+Menu
+Flashlight
+Slender
+Map: MAP
+
+Features:
+
+Slender chases you
+Collects COLLECTABLE
+Exit? (y/n):
+
+y/n: 
+
+Nickname (The slender games: Hospital; Stalked)
+
+y/n + nickname: YN, NICKNAME

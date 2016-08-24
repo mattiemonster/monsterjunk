@@ -1,0 +1,16 @@
+Menu
+Flashlight
+Slender
+Map: Cemetary
+
+Features:
+
+Slender chases you
+Collects COLLECTABLE
+Exit? (y/n): y
+
+y/n: 
+
+Nickname (The slender games: Hospital; Stalked)
+
+y/n + nickname: y, Cemetary

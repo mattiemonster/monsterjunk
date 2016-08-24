@@ -1,0 +1,61 @@
+;Hand lantern spec  by ncmako
+
+;GUN Model File Requirements
+
+;GUN Settings
+
+muzzleflash    = 
+muzzlesize     = 
+brass          = 
+smoke          = 1
+second         = 
+damage         = 20
+damagetype     = 2
+scorchtype     = 3
+reloadqty      = 0
+iterate        = 0
+accuracy       = 1
+range	       = 60
+
+;GUN Visuals
+
+textured      = 
+effect        = 
+transparency  = 2
+weapontype    = 1
+
+;GUN Sounds
+
+sound1	       = fire.wav
+sound2	       = reload.wav
+sound3         = dryfire.wav
+sound4         = cock.wav
+sound5         = retrieve.wav
+sound6         = putaway.wav
+fireloop       = 9000
+
+;HUD muzzleflash position
+
+horiz          = 2
+vert           = 12
+forward        = 5
+alignx         = 0
+aligny         = 4
+alignz         = 0
+
+;HUD animation frames list
+
+keyframe ratio = 1
+select         = 1,59
+Idle           = 61,80
+Move           = 61,80
+fire           = 61,80
+putaway	       = 81,100
+
+;HUD sound frames list
+
+soundframes    = 3
+sframe0        = 15,5
+sframe1        = 62,1
+sframe2        = 86,6
+
