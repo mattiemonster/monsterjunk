@@ -1,0 +1,6 @@
+dx diag stats
+system: http://s31.postimg.org/agcmqkpln/talking_to_myself.png
+display: http://s31.postimg.org/ft1h4pdi3/talking_to_myself.png
+render: http://s31.postimg.org/57hlsp76j/talking_to_myself.png
+sound: http://s31.postimg.org/tcibaerh7/talking_to_myself.png
+

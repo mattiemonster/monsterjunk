@@ -1,0 +1,7 @@
+review:
+
+textures are stretched
+don't use a gmod screenshot as your only screenshot
+there is one finshed level
+the movement is too fast for this game unless you justify it somehow
+collision is way off on some positions. To make a good game, it has to be almost PIXEL PERFECT.
