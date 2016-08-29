@@ -1,0 +1,12 @@
+textures low quality
+for intro text put a continue button not a timer.
+Weirdest controls I have ever seen
+Holding shift does nothing obvious
+Features seem to be missing
+The cursor image is not rendered where the cursor actually is.
+Tutorial text is rendered incorrectly sometimes
+Moving sideways is EXTREMELY sensetive.
+The text in the corner is tiny
+
+Plus:
+You added a save system!
